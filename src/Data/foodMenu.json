@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "item":"cabage salad",
+        "quantity":"250g",
+        "price":4.99,
+        "rating":4.2,
+        "totalItems":1,
+        "totalPrice":5.99,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    },
+    {
+        "id":2,
+        "item":"noodle salad",
+        "quantity":"300g",
+        "price":6.30,
+        "rating":4.5,
+        "totalItems":1,
+        "totalPrice":5.99,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    },
+    {
+        "id":3,
+        "item":"vegetable mix",
+        "quantity":"400g",
+        "price":5.99,
+        "rating":5.0,
+        "totalItems":1,
+        "totalPrice":5.99,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    },
+    {
+        "id":4,
+        "item":"seafood soup",
+        "quantity":"350g",
+        "price":6.10,
+        "rating":4.4,
+        "totalItems":1,
+        "totalPrice":5.99,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    },
+    {
+        "id":5,
+        "item":"bean soup",
+        "quantity":"350g",
+        "price":4.40,
+        "rating":4.9,
+        "totalItems":1,
+        "totalPrice":4.9,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    },
+    {
+        "id":6,
+        "item":"stewed vegetables",
+        "quantity":"400g",
+        "price":4.99,
+        "rating":3.9,
+        "totalItems":1,
+        "totalPrice":5.99,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    },
+    {
+        "id":7,
+        "item":"chicken soup",
+        "quantity":"350g",
+        "price":3.99,
+        "rating":4.2,
+        "totalItems":1,
+        "totalPrice":5.99,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    },
+    {
+        "id":8,
+        "item":"roast potatoes",
+        "quantity":"300g",
+        "price":4.99,
+        "rating":4.4,
+        "totalItems":1,
+        "totalPrice":5.99,
+        "image":"https://freepngimg.com/thumb/salad/23962-5-salad-transparent-background.png"
+    }
+]
